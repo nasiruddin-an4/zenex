@@ -7,7 +7,7 @@ html_files = [
     "s3-bucket.html",
     "vps-hosting.html",
     "web-hosting.html",
-    "zenexcloud-lambda.html"
+    "index.html"
 ]
 
 for fname in html_files:
